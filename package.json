@@ -1,0 +1,19 @@
+{
+  "name": "hapi-framework",
+  "version": "1.0.0",
+  "description": "Membangun RESTful API dengan framework Hapi",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dazelpro/hapi-server-nodejs.git"
+  },
+  "author": "ZEL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dazelpro/hapi-server-nodejs/issues"
+  },
+  "homepage": "https://github.com/dazelpro/hapi-server-nodejs#readme"
+}
